@@ -1,0 +1,1 @@
+compilador usado es MINGW64 gcc 12.2.0
